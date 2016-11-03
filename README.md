@@ -76,9 +76,6 @@ Get the status of the cluster:
 
 `scope launch --service-token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`
 
-Example
-`scope launch --service-token=9bsoaw99bc6i97r944mcsyfp37ybnb5o`
-
 Access the Weaveworks UI on :
 
 
